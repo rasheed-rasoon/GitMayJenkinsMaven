@@ -2,16 +2,16 @@
 <testng-results skipped="0" failed="0" ignored="0" total="1" passed="1">
   <reporter-output>
   </reporter-output>
-  <suite name="Suite" duration-ms="37" started-at="2019-04-28T17:29:08Z" finished-at="2019-04-28T17:29:08Z">
+  <suite name="Default suite" duration-ms="88" started-at="2019-04-28T17:46:19Z" finished-at="2019-04-28T17:46:20Z">
     <groups>
     </groups>
-    <test name="Test" duration-ms="37" started-at="2019-04-28T17:29:08Z" finished-at="2019-04-28T17:29:08Z">
-      <class name="MavenJenkinsGitHubInMay.MavenJenkinsGitHubInMay.SampleTest">
-        <test-method status="PASS" signature="sample()[pri:0, instance:MavenJenkinsGitHubInMay.MavenJenkinsGitHubInMay.SampleTest@5034c75a]" name="sample" duration-ms="11" started-at="2019-04-28T17:29:08Z" finished-at="2019-04-28T17:29:08Z">
+    <test name="Default test" duration-ms="88" started-at="2019-04-28T17:46:19Z" finished-at="2019-04-28T17:46:20Z">
+      <class name="MavenJenkinsGitHubInMay.MavenJenkinsGitHubInMay.Sample2">
+        <test-method status="PASS" signature="Sample2()[pri:0, instance:MavenJenkinsGitHubInMay.MavenJenkinsGitHubInMay.Sample2@9225652]" name="Sample2" duration-ms="24" started-at="2019-04-28T17:46:20Z" finished-at="2019-04-28T17:46:20Z">
           <reporter-output>
           </reporter-output>
-        </test-method> <!-- sample -->
-      </class> <!-- MavenJenkinsGitHubInMay.MavenJenkinsGitHubInMay.SampleTest -->
-    </test> <!-- Test -->
-  </suite> <!-- Suite -->
+        </test-method> <!-- Sample2 -->
+      </class> <!-- MavenJenkinsGitHubInMay.MavenJenkinsGitHubInMay.Sample2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
 </testng-results>
